@@ -15,3 +15,5 @@
 
 
 Эта строчка была добавлена в удаленном репозитории 
+
+![Git](https://www.linux.org.ru/images/16397/original.png)
