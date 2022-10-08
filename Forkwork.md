@@ -5,5 +5,9 @@
 git clone <ссылка> - копирует весь репозиторий в локальную папку
 ## Создание своего удалённого
 ----
-*кнопак
-
+* кнопка "**new repository**" и далее по инструкции сайта<br>
+Нам, для работы с ним локальну нужен средний блок кода
+>git remote add origin https://github.com/beneja/newbe.git<br>
+git branch -M main<br>
+git push -u origin main
+* Теперь можно локально редактировать файлы
